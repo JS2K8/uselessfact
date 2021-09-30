@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/uselessfact/static/css/main.a497b16f.chunk.css",
+    "main.js": "/uselessfact/static/js/main.81902558.chunk.js",
+    "main.js.map": "/uselessfact/static/js/main.81902558.chunk.js.map",
+    "runtime-main.js": "/uselessfact/static/js/runtime-main.ed402eb0.js",
+    "runtime-main.js.map": "/uselessfact/static/js/runtime-main.ed402eb0.js.map",
+    "static/js/2.3bad191d.chunk.js": "/uselessfact/static/js/2.3bad191d.chunk.js",
+    "static/js/2.3bad191d.chunk.js.map": "/uselessfact/static/js/2.3bad191d.chunk.js.map",
+    "static/js/3.3f6e3c90.chunk.js": "/uselessfact/static/js/3.3f6e3c90.chunk.js",
+    "static/js/3.3f6e3c90.chunk.js.map": "/uselessfact/static/js/3.3f6e3c90.chunk.js.map",
+    "index.html": "/uselessfact/index.html",
+    "static/css/main.a497b16f.chunk.css.map": "/uselessfact/static/css/main.a497b16f.chunk.css.map",
+    "static/js/2.3bad191d.chunk.js.LICENSE.txt": "/uselessfact/static/js/2.3bad191d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/uselessfact/static/media/wave-haikei.e8fd8e09.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed402eb0.js",
+    "static/js/2.3bad191d.chunk.js",
+    "static/css/main.a497b16f.chunk.css",
+    "static/js/main.81902558.chunk.js"
+  ]
+}
